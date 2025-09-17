@@ -104,5 +104,4 @@ dist
 data.json
 
 # build
-main.js
 *.js.map
