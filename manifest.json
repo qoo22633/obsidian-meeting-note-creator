@@ -4,8 +4,8 @@
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Create structured meeting notes with templates and automatic formatting",
-	"author": "Your Name",
-	"authorUrl": "https://github.com/yourusername/obsidian-meeting-note-creator",
-	"fundingUrl": "https://buymeacoffee.com/yourusername",
+	"author": "Yudai Yamashita",
+	"authorUrl": "https://github.com/qoo22633/obsidian-meeting-note-creator",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }

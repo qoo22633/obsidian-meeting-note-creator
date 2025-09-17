@@ -17,8 +17,15 @@ An Obsidian plugin to create structured meeting notes with templates and automat
 
 1. Install the BRAT plugin from the Obsidian community plugins
 2. Open the BRAT plugin settings
-3. Add this repository URL: `https://github.com/yourusername/obsidian-meeting-note-creator`
+3. Click "Add Beta Plugin" and add this repository URL: `https://github.com/qoo22633/obsidian-meeting-note-creator`
 4. The plugin will be automatically downloaded and can be enabled in your plugin settings
+
+### BRATを使用したインストール（日本語）
+
+1. ObsidianのコミュニティプラグインからBRATプラグインをインストール
+2. BRATプラグインの設定を開く
+3. "Add Beta Plugin"をクリックし、このリポジトリURL を追加: `https://github.com/qoo22633/obsidian-meeting-note-creator`
+4. プラグインが自動的にダウンロードされ、プラグイン設定で有効化できます
 
 ### Manual Installation
 
@@ -27,31 +34,31 @@ An Obsidian plugin to create structured meeting notes with templates and automat
 3. Reload Obsidian
 4. Enable the plugin in Settings > Community plugins
 
-## Usage
+## Usage / 使用方法
 
-### Creating a Meeting Note
+### Creating a Meeting Note / 会議ノートの作成
 
-1. Click the calendar icon in the left ribbon, or
-2. Use the command palette (Ctrl/Cmd + P) and search for "Create Meeting Note", or
-3. Use the hotkey (if configured)
+1. Click the calendar icon in the left ribbon, or / 左のリボンのカレンダーアイコンをクリック、または
+2. Use the command palette (Ctrl/Cmd + P) and search for "Create Meeting Note", or / コマンドパレット（Ctrl/Cmd + P）で「Create Meeting Note」を検索、または
+3. Use the hotkey (if configured) / ホットキーを使用（設定済みの場合）
 
-This will open a modal where you can:
-- Enter the meeting title
-- Add participants
-- Create agenda items
+This will open a modal where you can: / モーダルが開き、以下を設定できます：
+- Enter the meeting title / 会議タイトルの入力
+- Add participants / 参加者の追加
+- Create agenda items / 議題項目の作成
 
-The plugin will create a structured note with:
-- Meeting metadata (date, time, participants)
-- Agenda items
-- Notes section
-- Action items checklist
-- Next steps section
+The plugin will create a structured note with: / プラグインは以下の構造化されたノートを作成します：
+- Meeting metadata (date, time, participants) / 会議メタデータ（日付、時間、参加者）
+- Agenda items / 議題項目
+- Notes section / ノートセクション
+- Action items checklist / アクションアイテムのチェックリスト
+- Next steps section / 次のステップセクション
 
-### Inserting a Template
+### Inserting a Template / テンプレートの挿入
 
-You can also insert a meeting template into any existing note using:
-- Command palette: "Insert Meeting Template"
-- Or configure a hotkey for quick access
+You can also insert a meeting template into any existing note using: / 既存のノートに会議テンプレートを挿入することもできます：
+- Command palette: "Insert Meeting Template" / コマンドパレット：「Insert Meeting Template」
+- Or configure a hotkey for quick access / または素早くアクセスするためのホットキーを設定
 
 ## Settings
 
@@ -102,7 +109,7 @@ The generated meeting notes follow this structure:
 If you find this plugin helpful, consider supporting its development:
 - ⭐ Star this repository
 - 🐛 Report bugs or request features in the Issues section
-- ☕ [Buy me a coffee](https://buymeacoffee.com/yourusername)
+- ☕ [Buy me a coffee](https://buymeacoffee.com/yudaiyamashita)
 
 ## License
 
